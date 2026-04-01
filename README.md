@@ -1,5 +1,5 @@
-[Exercício 01 - Estrutura e Posicionamento](./exer1.html)
+[Exercício 01](./exer1.html)
 
-[Exercício 02 - UI e Formulários](./exer2.html)
+[Exercício 02](./exer2.html)
 
-[Exercício 03 - Design Responsivo](./exer3.html)
+[Exercício 03](./exer3.html)
